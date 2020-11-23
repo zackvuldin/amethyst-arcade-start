@@ -1,11 +1,11 @@
-import home from './Home/home'
+import home from './Home/home';
 import './App.css';
 
 function App() {
-  return (
+	return (
 		<div className='App'>
 			<header className='App-header'>
-				<p>Welcome to Amethyst Arcade</p>
+				<p>≛ Welcome to Amethyst Arcade ≛</p>
 				<img
 					src='https://lh3.googleusercontent.com/proxy/J40T7pR8RDzMuSDLUWbGywaRaCY9_58D6vhu0y-cRyhgsan4IL-JFPE8HhgV1I_2i_RcNa568Mzc6i5dldGSm7BicayL3z6PNgE5eN8baFu-H_rqLa86xB2NXXV47RbBy012e5-lm1g'
 					className='App-logo'
@@ -67,8 +67,8 @@ function App() {
 					rel='noopener noreferrer'>
 					Hanoi Tower
 				</a>
-				<p>Reactions from happy gamers!</p>
-				<p>Scroll Down</p>
+				<p>↓ Reactions from happy gamers! ↓</p>
+				<p>↓ Scroll Down ↓</p>
 			</header>
 			<header className='Anime-header'>
 				<img
