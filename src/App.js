@@ -8,7 +8,7 @@ function App() {
 				<p>≛ Welcome to Amethyst Arcade ≛</p>
 				{/* logo */}
 				<img
-					src='https://lh3.googleusercontent.com/proxy/NQInGP_elX1aQafdHakNqZVyqgj3EzyU5Aezr59PRIKAJooNFlexLrDKKYTPO-0m4f9dM3XhRzWSi1TrEp1XOmk5eN6WC_adalYTjOMTHoBCypSFNUKUpB5wXvERNloG0_SBuRf7GRE'
+					src='http://www.pngall.com/wp-content/uploads/2017/01/Amethyst-Stone-Download-PNG.png'
 					className='App-logo'
 					alt='logo'
 				/>
