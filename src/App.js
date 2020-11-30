@@ -6,6 +6,7 @@ function App() {
 		<div className='App'>
 			<header className='App-header'>
 				<p>≛ Welcome to Amethyst Arcade ≛</p>
+				{/* logo */}
 				<img
 					src='https://lh3.googleusercontent.com/proxy/J40T7pR8RDzMuSDLUWbGywaRaCY9_58D6vhu0y-cRyhgsan4IL-JFPE8HhgV1I_2i_RcNa568Mzc6i5dldGSm7BicayL3z6PNgE5eN8baFu-H_rqLa86xB2NXXV47RbBy012e5-lm1g'
 					className='App-logo'
