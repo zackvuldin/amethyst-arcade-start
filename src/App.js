@@ -8,7 +8,7 @@ function App() {
 				<p>≛ Welcome to Amethyst Arcade ≛</p>
 				{/* logo */}
 				<img
-					src='https://lh3.googleusercontent.com/proxy/J40T7pR8RDzMuSDLUWbGywaRaCY9_58D6vhu0y-cRyhgsan4IL-JFPE8HhgV1I_2i_RcNa568Mzc6i5dldGSm7BicayL3z6PNgE5eN8baFu-H_rqLa86xB2NXXV47RbBy012e5-lm1g'
+					src='https://lh3.googleusercontent.com/proxy/NQInGP_elX1aQafdHakNqZVyqgj3EzyU5Aezr59PRIKAJooNFlexLrDKKYTPO-0m4f9dM3XhRzWSi1TrEp1XOmk5eN6WC_adalYTjOMTHoBCypSFNUKUpB5wXvERNloG0_SBuRf7GRE'
 					className='App-logo'
 					alt='logo'
 				/>
